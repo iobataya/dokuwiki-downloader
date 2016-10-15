@@ -1,3 +1,8 @@
+レポジトリ内のdokuwiki-downloader-ja.phpは、DokuWikiをWebブラウザ上でインストール〜セットアップできる。スクリプトです
+オリジナルのスクリプトのインターフェース部分を日本語化し、日本語向けのlocal.protected.phpを書き出します。
+
+### Original README ###
+
 This script will download and install the latest stable version of DokuWiki
 into the same directory as this script.
 
